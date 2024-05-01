@@ -6,10 +6,6 @@
 
 >EX: int anoFabricacao = 2000;
 
-## Tipos de Dados
-
->Os oito tipos primitivos em Java são: int, byte, short, long, float, double, boolean e char.
-
 ## Declaração de variáveis válidas 👍
 
 >Deve conter apenas letras, _ (underline), $ ou os números de 0 a 9
