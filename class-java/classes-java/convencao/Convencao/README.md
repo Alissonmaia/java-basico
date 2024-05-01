@@ -10,7 +10,7 @@
 
 >Os oito tipos primitivos em Java são: int, byte, short, long, float, double, boolean e char.
 
-## Declaração de variáveis válidas
+## Declaração de variáveis válidas 👍
 
 >Deve conter apenas letras, _ (underline), $ ou os números de 0 a 9
 
@@ -23,3 +23,13 @@
 >Não pode usar palavras reservadas da linguagem 
 
 >O nome deve ser único dentro de um escopo 
+
+>Variável Clara;
+
+> Variável sempre no singular
+
+>Único idioma no escopo 
+
+>🚫 Não recomendado:
+
+>Abreviação, Mesclagem entre idiomas e Plural

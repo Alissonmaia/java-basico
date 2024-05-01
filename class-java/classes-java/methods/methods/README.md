@@ -4,10 +4,16 @@
 >Um método em Java é equivalente a uma função, subrotina ou procedimento em outras linguagens de programação.
 
 ## Estrutura Básica
+>Nomeado como Verbos mesclagem com letras minúsculas e maiúsculas, com exceção da primeira letra de cada palavra compostas.
+
+>EX: abrirConexao (){};
+>concluirProcessamento (){};
+>findById (int id) {};
 
 >TipoRetorno NomeObjetivoNoInfinitivo Parâmetro (s)
 
 >Métodos em Java sempre no infinitivo.
+
 
 >Um método pode receber parâmetros de tipos diferentes
 
