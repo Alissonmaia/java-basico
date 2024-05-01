@@ -1,18 +1,13 @@
-## Getting Started
+# Anamotia das Classes em Java ☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> 99,9% das nossas classes iniciarão com public class;
 
-## Folder Structure
+> Toda classe precisa de nome intuitivo. EX: MinhaClasse
 
-The workspace contains two folders by default, where:
+> O nome do arquivo deve ser idêntico ao nome da classe pública.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+> Após o nome, definir o corpo { } , onde iremos compor nossas classes com atributos e métodos. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> O método main recebe seu nome main, sempre terá a visibilidade public, será difinido como static, não retornará nenhum valor com void e receberá um parâmetro do tipo array de caracteres String[].
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+>A Linguagem possui arquivos java que contém classes, como Classe System. Uma classe do sistema de entrada/sáida.  
