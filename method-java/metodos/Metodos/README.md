@@ -1,0 +1,1 @@
+# Exemplos estruturais de construção de métodos.
