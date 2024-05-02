@@ -1,6 +1,6 @@
 # Operadores em Java ☕ 
 
-## Operador Atribuiçã ( = )
+## Operador Atribuição ( = )
 
 ## Operadores Aritméticos ( - + * / )
 
@@ -8,3 +8,5 @@
 > Incremento ( ++ )
 
 >Decremento ( - - )
+
+>Lógico de negação ( ! )
