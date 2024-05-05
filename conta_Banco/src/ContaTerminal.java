@@ -3,7 +3,8 @@ import java.util.Locale;
 import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args){
-        System.out.println("Bem-vindo ao Santander");
+        System.out.println("Bem-vindo ao Santander\n");
+        System.out.println("Criar Conta");
         //Criação do objeto scanner 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);//Receber valores decimais modelo bancário US
         //Interação de entrada do usuário
