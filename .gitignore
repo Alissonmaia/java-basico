@@ -17,3 +17,10 @@ java-doc/Calculadora/JavaDoc/.vscode/settings.json
 java-doc/Calculadora/JavaDoc/bin/App.class
 conta_Banco/.vscode/settings.json
 conta_Banco/bin/ContaTerminal.class
+controle-fluxo/controle-fluxo/.vscode/settings.json
+controle-fluxo/controle-fluxo/bin/CaixaEletronico.class
+controle-fluxo/controle-fluxo/bin/CondicaoTernaria.class
+controle-fluxo/controle-fluxo/bin/SistemaMedida1.class
+controle-fluxo/controle-fluxo/bin/SistemaMedida.class
+controle-fluxo/controle-fluxo/bin/ResultadoEscolar.class
+controle-fluxo/controle-fluxo/bin/PlanoTelefonia.class
